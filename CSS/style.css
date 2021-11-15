@@ -112,7 +112,7 @@ html {
 }
 
 .button:hover {
-  background: #4df3ff;
+  background: #fec260;
   transition: all 0.3s ease;
   color: #000;
 }
